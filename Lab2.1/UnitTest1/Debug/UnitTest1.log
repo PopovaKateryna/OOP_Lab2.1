@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\KATERYNA\Desktop\OOP\Lab2.1\Lab2.1\Lab2.1\CProgression.cpp(77,32): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+     Creating library C:\Users\KATERYNA\Desktop\OOP\Lab2.1\Lab2.1\Debug\UnitTest1.lib and object C:\Users\KATERYNA\Desktop\OOP\Lab2.1\Lab2.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\KATERYNA\Desktop\OOP\Lab2.1\Lab2.1\Debug\UnitTest1.dll
